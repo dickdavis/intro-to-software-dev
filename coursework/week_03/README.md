@@ -14,18 +14,8 @@ something out or look up more information in the official documentation. You are
 move on to the assignment.
 
 ## Assignment
-Write a program that prompts a user for a string. It should then perform several different functions on that user-provided string and print them
-to the screen:
-* Print the string reversed and in all caps.
-* Display the length of the string.
-* Tell whether the string starts or ends with a vowel.
-
-Write a program that prompts the user for a temperature in Farenheit. It should then convert that temperature to Celsius and display it to the
-screen. The conversion for Farenheit to Celsius is: (5/9) * (X - 32).
 
 ## Reference
-The official Ruby 2.6 documentation for [Strings](https://ruby-doc.org/core-2.6/String.html)
+The official Ruby 2.6 documentation for [Hash](https://ruby-doc.org/core-2.6/Hash.html)
 
-The official Ruby 2.6 documentation for [Integers](https://ruby-doc.org/core-2.6/Integer.html)
-
-The official Ruby 2.6 documentation for [Floats](https://ruby-doc.org/core-2.6/Float.html)
+The official Ruby 2.6 documentation for [Arrays](https://ruby-doc.org/core-2.6/Array.html)
